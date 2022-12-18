@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Im glad to learn you, Git!</h1>'
