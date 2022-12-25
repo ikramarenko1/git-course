@@ -1,3 +1,3 @@
 # Git and Github Course
 
-This is a course for Git and Github!
+Hello, everyone! This is a course for Git and Github!
